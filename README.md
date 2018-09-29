@@ -1,1 +1,1 @@
-Python project for making program for face recognition
+Python project: face recognition
